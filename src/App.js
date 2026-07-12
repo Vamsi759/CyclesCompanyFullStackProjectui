@@ -264,7 +264,7 @@ export default function App() {
           <div className="header">
             <div className="rocket">🚀</div>
             <h1>Render Server Dashboard</h1>
-            <p>Waking up all services — this takes about 2 minutes on free tier.</p>
+            <p>Waking up all services — this takes about 2 minutes on free tier and agin go to sleep after 15 minutes.</p>
           </div>
 
           {/* Timer Card */}

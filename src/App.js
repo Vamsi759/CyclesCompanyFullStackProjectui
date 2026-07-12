@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 
 const PROJECTS = [
   {
-    name: "CyclescompanyManagmentfullstackproject",
+    name: "CyclesManagmentfullstackproject",
     url: "https://cyclescompanyfullstackproject.onrender.com/api/open",
     github: "https://github.com/Vamsi759/CyclesCompanyFullStackProject",
     icon: "🗄️",

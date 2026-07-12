@@ -2,33 +2,13 @@ import React, { useEffect, useState } from "react";
 
 const PROJECTS = [
   {
-    name: "Full Stack Managment Project",
-    url: "https://fullstackmangproj88backfronted.onrender.com/ins/home",
-    github: "https://github.com/Vamsi759/FullstackMangProj88fronted/tree/main",
+    name: "CyclescompanyManagmentfullstackproject",
+    url: "https://cyclescompanyfullstackproject.onrender.com/api/open",
+    github: "https://github.com/Vamsi759/CyclesCompanyFullStackProject",
     icon: "🗄️",
     desc: "Full Stack Backend + Frontend",
   },
-  {
-    name: "Student Management (Thymeleaf)",
-    url: "https://emp1-jan-thymleaf-2-us8d.onrender.com/students/open",
-    github: "https://github.com/Vamsi759/emp1_jan_thymleaf/tree/main",
-    icon: "🎓",
-    desc: "Student Portal with Thymeleaf",
-  },
-  {
-    name: "Entity Data Registration",
-    url: "https://entitydataregistrationproject.onrender.com/students",
-    github: "https://github.com/Vamsi759/EntityDataRegistrationproject/tree/main",
-    icon: "🗄️",
-    desc: "Entity & Data Registration System",
-  },
-  {
-    name: "AI Study Notes",
-    url: "https://aistudynotesavingonlinewebapp.onrender.com/api/open7",
-    github: "https://github.com/Vamsi759/AiNoteden/tree/main",
-    icon: "🤖",
-    desc: "AI-Powered Study Notes Saver",
-  },
+ 
   
 ];
 /*
